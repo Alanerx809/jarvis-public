@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+publish.py
+publish_backup_temp
+build.py
+music/
+src/config.json
+src/jokes.json
+src/paths.json
+autostarts/
